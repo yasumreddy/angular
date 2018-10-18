@@ -10,6 +10,7 @@
             this.empFname="";
             this.empLname="";
             var ssn="756B759";
+            
             }
         
         employee.country="India";//creting a static property static properies cant be seen like other properties cant be inherited
